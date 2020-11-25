@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44075532390",
+    "firebase_url": "https://plushvie-assignment.firebaseio.com",
+    "project_id": "plushvie-assignment",
+    "storage_bucket": "plushvie-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44075532390:android:707f7bfa782b46a32dada7",
+        "android_client_info": {
+          "package_name": "com.example.plushvieassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44075532390-l1vqpov8khn69mfs3dc59d8o9fcl2nie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-77U64_l7EpffoAJntfg0t6j-0btS50M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44075532390-l1vqpov8khn69mfs3dc59d8o9fcl2nie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
