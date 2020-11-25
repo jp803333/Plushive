@@ -2,10 +2,12 @@
 
 ## ScreenShots
 
-![Login](/ScreenShots/Login.jpg?raw=true "optional title")
-![Home](/ScreenShots/WithList.jpg?raw=true "optional title")
-![Home Loading](/ScreenShots/HomeLoading.jpg?raw=true "optional title")
-![Successful entry](/ScreenShots/SuccessfulEntry.jpg?raw=true "optional title")
-![When Empty](/ScreenShots/WhenEmpty.jpg?raw=true "optional title")
-![When it's not a number](/ScreenShots/WhenNAN.jpg?raw=true "optional title")
-![Entry Dialog](/ScreenShots/EntryDialog.jpg?raw=true "optional title")
+<p>
+<img src="ScreenShots/Login.png" width="200">
+<img src="ScreenShots/WithList.png" width="200">
+<img src="ScreenShots/HomeLoading.png" width="200">
+<img src="ScreenShots/SuccessfulEntry.png" width="200">
+<img src="ScreenShots//WhenEmpty.png" width="200">
+<img src="ScreenShots/WhenNAN.png" width="200">
+<img src="ScreenShots/EntryDialog.png" width="200">
+</p>
